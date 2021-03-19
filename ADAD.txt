@@ -1,3 +1,33 @@
+# --------------------------------------------
+#          ◆ G O O D B Y E A D S ◆
+# --------------------------------------------
+#
+# --------------------------------------------
+# Format: hosts
+# License: MIT, https://github.com/caisl1204/wenjian2/
+# --------------------------------------------
+#
+# --------------------------------------------
+# L O C A L  H O S T
+# --------------------------------------------
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+# --------------------------------------------
+#
+# --------------------------------------------
+# --------------------------------------------
 0.0.0.0 360.com
 0.0.0.0 360.com.cn
 0.0.0.0 360.net
@@ -365,7 +395,7 @@
 0.0.0.0 imeiju.cc
 0.0.0.0 downxunlei.com
 0.0.0.0 chuzushijian.cn
-0.0.0.0 kfd3sm2c.com/
+0.0.0.0 kfd3sm2c.com
 0.0.0.0 5151gj.com
 0.0.0.0 zzsssy.com
 0.0.0.0 lvgen.cc
@@ -407,7 +437,6 @@
 0.0.0.0 cloudpsvn.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 aisouk.cn
-
 0.0.0.0 app-measurement.com
 0.0.0.0 googleplay.com
 0.0.0.0 mobads.baidu.com
@@ -1080,7 +1109,6 @@
 0.0.0.0 sensorsdata.cn
 0.0.0.0 sensorsanalytics.cn
 0.0.0.0 sensorsdatavip.com
-
 0.0.0.0 umtrack0.com
 0.0.0.0 umtrack1.com
 0.0.0.0 umtrack2.com
@@ -1119,7 +1147,6 @@
 0.0.0.0 51yuqing.cn
 0.0.0.0 midudata.com
 0.0.0.0 midudata.cn
-
 0.0.0.0 alikmd.com
 0.0.0.0 alifenxi.cn
 0.0.0.0 alimama.com
@@ -1155,22 +1182,17 @@
 0.0.0.0 pickpikka.com
 0.0.0.0 dg-work.cn
 0.0.0.0 opencoral.cn
-
 0.0.0.0 thinkingdata.cn
 0.0.0.0 thinkinggame.cn
 0.0.0.0 thinkingame.cn
-
 0.0.0.0 nint.com
 0.0.0.0 ecdataway.com
 0.0.0.0 qbtchina.com
 0.0.0.0 xishuju.cn
 0.0.0.0 dataways.cn
-
 0.0.0.0 stats.gov.cn
-
 0.0.0.0 oadz.com
 0.0.0.0 shangzhu.com
-
 0.0.0.0 youedata.com
 0.0.0.0 youedos.top
 0.0.0.0 dataos.wiki
@@ -1188,7 +1210,6 @@
 0.0.0.0 youedataos.cn
 0.0.0.0 gdos.top
 0.0.0.0 youedata.cn
-
 0.0.0.0 csdisummit.com
 0.0.0.0 bagevent.cn
 0.0.0.0 aicconf.net
@@ -1199,42 +1220,40 @@
 0.0.0.0 icdt-conf.com
 0.0.0.0 marketup.cn
 0.0.0.0 bagevent.com
-
 0.0.0.0 qiyukf.com
-0.0.0.0 163industry.com/0.0.0.1
-0.0.0.0 yunxinvideo.com/0.0.0.2
-0.0.0.0 yunxinvcloud.com/0.0.0.3
-0.0.0.0 yunxingslb.com/0.0.0.4
-0.0.0.0 yunxinhy.com/0.0.0.5
-0.0.0.0 yunxinfw.com/0.0.0.6
-0.0.0.0 yunxindns.com/0.0.0.7
-0.0.0.0 yunxinsvr.com/0.0.0.8
-0.0.0.0 yunxinsvip.com/0.0.0.9
-0.0.0.0 yunxinhi.com/0.0.0.10
-0.0.0.0 yunxinapi.com/0.0.0.11
-0.0.0.0 yunxin163.com/0.0.0.12
-0.0.0.0 126.link/0.0.0.13
-0.0.0.0 dingwei.link/0.0.0.14
-0.0.0.0 hukelc.com/0.0.0.15
-0.0.0.0 hukecwx.com/0.0.0.16
-0.0.0.0 hukenb.com/0.0.0.17
-0.0.0.0 nbhuke.com/0.0.0.18
-0.0.0.0 hukexyy.com/0.0.0.19
-0.0.0.0 hukewq.com/0.0.0.20
-0.0.0.0 hukeck.com/0.0.0.21
-0.0.0.0 hukehyh.com/0.0.0.22
-0.0.0.0 hukefjb.com/0.0.0.23
-0.0.0.0 hukesxm.com/0.0.0.24
-0.0.0.0 netease.im/0.0.0.25
-0.0.0.0 hukecs.com/0.0.0.26
-0.0.0.0 163.link/0.0.0.27
-0.0.0.0 qiyukf.net/0.0.0.28
-0.0.0.0 static163.net/0.0.0.29
-0.0.0.0 netstatic.net/0.0.0.30
-0.0.0.0 chatnos.com/0.0.0.31
-0.0.0.0 ndiip.com/0.0.0.32
-0.0.0.0 yunxinrtc.com/0.0.0.33
-
+0.0.0.0 163industry.com
+0.0.0.0 yunxinvideo.com
+0.0.0.0 yunxinvcloud.com
+0.0.0.0 yunxingslb.com
+0.0.0.0 yunxinhy.com
+0.0.0.0 yunxinfw.com
+0.0.0.0 yunxindns.com
+0.0.0.0 yunxinsvr.com
+0.0.0.0 yunxinsvip.com
+0.0.0.0 yunxinhi.com
+0.0.0.0 yunxinapi.com
+0.0.0.0 yunxin163.com
+0.0.0.0 126.link
+0.0.0.0 dingwei.link
+0.0.0.0 hukelc.com
+0.0.0.0 hukecwx.com
+0.0.0.0 hukenb.com
+0.0.0.0 nbhuke.com
+0.0.0.0 hukexyy.com
+0.0.0.0 hukewq.com
+0.0.0.0 hukeck.com
+0.0.0.0 hukehyh.com
+0.0.0.0 hukefjb.com
+0.0.0.0 hukesxm.com
+0.0.0.0 netease.im
+0.0.0.0 hukecs.com
+0.0.0.0 163.link
+0.0.0.0 qiyukf.net
+0.0.0.0 static163.net
+0.0.0.0 netstatic.net
+0.0.0.0 chatnos.com
+0.0.0.0 ndiip.com
+0.0.0.0 yunxinrtc.com
 0.0.0.0 tenddata.com
 0.0.0.0 tddmp.com
 0.0.0.0 mpush.cn
@@ -1499,7 +1518,6 @@
 0.0.0.0 .xn
 0.0.0.0 .games
 0.0.0.0 .game
-
 0.0.0.0 .xn--fiqs8s
 0.0.0.0 .xn--55qx5d
 0.0.0.0 .xn--ses554g
